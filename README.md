@@ -10,7 +10,6 @@ If you use these lexicons, please cite the following paper:
 ## Citation
 
 ```
-
 @article{plaza2020detecting,
   title={Detecting Misogyny and Xenophobia in Spanish Tweets Using Language Technologies},
   author={Plaza-Del-Arco, Flor-Miriam and Molina-Gonz{\'a}lez, M Dolores and Ure{\~n}a-L{\'o}pez, L Alfonso and Mart{\'\i}n-Valdivia, M Teresa},
